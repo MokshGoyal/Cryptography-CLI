@@ -1,2 +1,2 @@
-pycryptodome==3.17.0
+pycryptodome==4.0.1
 hashlib
